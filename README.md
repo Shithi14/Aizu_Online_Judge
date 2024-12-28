@@ -1,4 +1,3 @@
-## ttt
 
 
 ## AIZU ONLINE JUDGE
